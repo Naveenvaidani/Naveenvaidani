@@ -7,6 +7,6 @@ When I’m not debugging code or vibing out with some late-night coding sessions
 I love connecting with cool projects and people—if your idea vibes with me, I just might connect (no pressure, but make it interesting 😏).
 Let’s build something awesome (or at least something that compiles)!
 
-Check out my LinkedIn—promise it’s more interesting than your average profile.
+Check out my [LinkedIn](https://www.linkedin.com/in/naveen-vaidani-6ba573336/) —promise it’s more interesting than your average profile.
 
 Other hobbies include questionable karaoke, spontaneous brainstorming

@@ -10,3 +10,22 @@ Let’s build something awesome (or at least something that compiles)!
 Check out my [LinkedIn](https://www.linkedin.com/in/naveen-vaidani-6ba573336/) —promise it’s more interesting than your average profile.
 
 Other hobbies include questionable karaoke, spontaneous brainstorming
+
+## 🛠 Tech Stack
+
+### Web Development
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Programming Languages
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### AI Stack
+- ![AI](https://img.shields.io/badge/AI-00C7B7?style=for-the-badge&logo=openai&logoColor=white)
+- ![Generative AI](https://img.shields.io/badge/Generative%20AI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+
+### Tools
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
